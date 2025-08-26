@@ -17,7 +17,7 @@ html,
 body {
   width: 100%;
   height: 100%;
-  background-color: #262729;
+  background-color: #262765;
 }
 
 #app p,
